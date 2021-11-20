@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #191a1d;
+}
+
+.icon {
+    border-style: solid;
+    border-color: #4b6cc1;
+    padding: 10px;
+    height: 60px;
+    width: 50px;
+    border-width: 2px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#text1 {
+    color: black;
+}
+
+#text1:hover {
+    background-color: white;
+    color: blue
+}
+
+#text2 {
+    color: black;
+}
+
+#text3 {
+    color: black;
+}
+
+#text4 {
+    color: black;
+}
+
+#text5 {
+    color: black;
+}
+
+#text6 {
+    color: black;
+}
+
+.up1 {
+    background-image: url("https://image.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4909.jpg");
+    height: 50vh;
+
+}
+
+.up2 {
+    background-image: url("https://image.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4909.jpg");
+    height: 50vh;
+
+}
+
+.up3 {
+    background-image: url("https://image.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4909.jpg");
+    height: 50vh;
+
+}
+
+.image2 {
+    color: #0948e8;
+}
+
+.heading {
+    font-size: 36px;
+    color: white;
+    font-family: Roboto;
+}
+
+.text {
+    color: #4b6cc1;
+}
+
+
+.image {
+    width: 200px;
+    border-radius: 20px;
+
+}
+
